@@ -44,10 +44,12 @@ splunk-threat-detection/
 
 ---
 
-## Screenshots
-```markdown
-![Custom Dashboard](./screenshots/dashboard.png)
-![PowerShell Alert](./screenshots/powershell-alert.png)
+##  Dashboard Overview
+
+This screenshot shows the custom Splunk dashboard built to detect suspicious PowerShell activity and other threat behaviors across endpoints.
+
+![Dashboard Overview](./screenshots/dashboard-overview.png)
+
 
 
 

@@ -25,12 +25,6 @@ View the full walkthrough:
 
 ---
 
-## Screenshots
-```markdown
-![Suspicious PowerShell Activity](screenshots/powershell-alert.png)
-
----
-
 ## Outcome
 This hands-on project strengthened my ability to:
 
@@ -47,4 +41,13 @@ splunk-threat-detection/
 │   ├── dashboard.png
 │   └── powershell-alert.png
 └── LICENSE
+
+---
+
+## Screenshots
+```markdown
+![Suspicious PowerShell Activity](screenshots/powershell-alert.png)
+
+
+
 

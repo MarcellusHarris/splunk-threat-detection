@@ -46,7 +46,8 @@ splunk-threat-detection/
 
 ## Screenshots
 ```markdown
-![Suspicious PowerShell Activity](screenshots/powershell-alert.png)
+![Custom Dashboard](./screenshots/dashboard.png)
+![PowerShell Alert](./screenshots/powershell-alert.png)
 
 
 

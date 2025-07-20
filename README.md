@@ -35,18 +35,17 @@ Add screenshots to a `/screenshots` folder, then embed like this:
 ## Outcome
 This hands-on project strengthened my ability to:
 
-Identify adversary behavior using Splunk
+- Identify adversary behavior using Splunk  
+- Create efficient detection rules  
+- Understand event correlation in enterprise environments
 
-Create efficient detection rules
-
-Understand event correlation in enterprise environments
+---
 
 ## Repo Structure
-Copy
-Edit
 splunk-threat-detection/
 ├── README.md
 ├── screenshots/
 │   ├── dashboard.png
 │   └── powershell-alert.png
 └── LICENSE
+

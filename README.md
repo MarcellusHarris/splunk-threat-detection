@@ -26,7 +26,6 @@ View the full walkthrough:
 ---
 
 ## Screenshots
-Add screenshots to a `/screenshots` folder, then embed like this:
 ```markdown
 ![Suspicious PowerShell Activity](screenshots/powershell-alert.png)
 

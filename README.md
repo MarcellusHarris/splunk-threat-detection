@@ -6,6 +6,16 @@ This project demonstrates how I used **Splunk** to detect suspicious activity th
 View the full walkthrough:  
 **[Splunk Threat Detection Slides (Google Slides)](https://docs.google.com/presentation/d/1MgRZ0GU5EhEWFDaDAdu7tRQI3nGlzzlW365Y1LsfOZI/edit?usp=sharing)**
 
+##  Project Features
+
+This Splunk project simulates a real-world security monitoring scenario using enterprise log data. It includes:
+
+-  **Suspicious PowerShell Detection**: SPL query to identify encoded or obfuscated PowerShell usage.
+-  **Custom Dashboards**: Visualizations to track anomalies, user behavior, and script-based threats.
+-  **Detection Rules**: Custom correlation searches to trigger alerts based on attacker patterns.
+-  **Event Correlation**: Demonstrates how to connect multiple log sources for deeper threat context.
+-  **Sample Data Sources**: Includes Windows Event Logs and user activity logs to simulate realistic behavior.
+
 ---
 
 ## Tools & Technologies

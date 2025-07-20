@@ -48,7 +48,7 @@ splunk-threat-detection/
 
 This screenshot shows the custom Splunk dashboard built to detect suspicious PowerShell activity and other threat behaviors across endpoints.
 
-![Dashboard Overview](./screenshots/dashboard-overview.png)
+![Dashboard Overview](./dashboard-overview.png)
 
 
 

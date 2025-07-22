@@ -2,7 +2,6 @@
 
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Platform](https://img.shields.io/badge/Platform-Splunk-blueviolet)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 ![Project Type](https://img.shields.io/badge/Project-Threat--Detection-red)
 
 This project showcases how Splunk can be used to detect suspicious activity across enterprise logs. It includes custom dashboards, mapped alerts based on the MITRE ATT&CK framework, and analysis techniques for identifying potential threats using real-world-style scenarios.

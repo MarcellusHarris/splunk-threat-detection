@@ -1,5 +1,5 @@
 #  Splunk Threat Detection & Log Analysis Project
-
+# Splunk Threat Detection
 This project demonstrates how I used **Splunk** to detect suspicious activity through log analysis, custom dashboards, and mapped alerts using MITRE ATT&CK techniques.
 
 ##  Presentation

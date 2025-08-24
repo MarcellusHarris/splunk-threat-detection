@@ -1,0 +1,15 @@
+<!-- Splunk dashboard export placeholder. Replace with actual XML from Splunk when ready. -->
+<dashboard>
+  <label>Threat Detection Dashboard</label>
+  <row>
+    <panel>
+      <title>Sample Panel</title>
+      <chart>
+        <search>
+          <query>index=*</query>
+        </search>
+        <option name="charting.chart">column</option>
+      </chart>
+    </panel>
+  </row>
+</dashboard>

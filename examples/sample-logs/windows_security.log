@@ -1,0 +1,3 @@
+Aug 24 2025 12:34:56 hostname Security-Auditing: EventID 4624 - An account was successfully logged on.
+Aug 24 2025 12:35:04 hostname Security-Auditing: EventID 4625 - An account failed to log on.
+Aug 24 2025 12:35:20 hostname Security-Auditing: EventID 4688 - A new process has been created.

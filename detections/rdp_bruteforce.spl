@@ -1,0 +1,3 @@
+index=main sourcetype="WinEventLog:Security" EventCode=4625 LogonType=10
+| stats count by host, AccountName
+| where count > 5

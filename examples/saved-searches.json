@@ -1,0 +1,10 @@
+[
+    {
+        "name": "Suspicious PowerShell Execution",
+        "search": "index=main sourcetype=\"WinEventLog:Security\" EventCode=4104 | stats count by ScriptBlockText"
+    },
+    {
+        "name": "Failed RDP Logins",
+        "search": "index=main sourcetype=\"WinEventLog:Security\" EventCode=4625 LogonType=10"
+    }
+]
